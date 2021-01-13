@@ -14,7 +14,7 @@ body{
     text-align:center;
     padding-top: 300px;
     height:100vh;
-    background-color: aquamarine;
+    background-color: rgb(110, 62, 108);
 }
 li{
     display:inline;
